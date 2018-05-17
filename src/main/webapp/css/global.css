@@ -1,0 +1,33 @@
+html {
+	background-color: #f5f5f5;
+}
+#navHeader {
+	box-shadow: 0 0 18px #e8e8ec;
+}
+#navContainer {
+	font-family:"微软雅黑", "Lucida Grande", "Lucida Sans", Helvetica, Arial, Sans;
+ 	font-size: 13px;
+}
+.navbar .navbar-brand {
+	font-size: 28px;
+}
+.mainFooter {
+	background-color: #202020;
+	color: #959595;
+	padding: 16px 0px 16px 0;
+}
+.mainFooter .copyright {
+	text-align: center;
+	font-size: 13px;
+	color: #555555;
+}
+.mainFooter .copyright span {
+	text-align: center;
+	margin: 0 .5em;
+}
+#welcome_jumbotron {
+	background: url(/bg/welcome.png) no-repeat; 
+	background-size: cover;
+	background-position: center center;
+	height:800px; opacity: 0.7;
+}

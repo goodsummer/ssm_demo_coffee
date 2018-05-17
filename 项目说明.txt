@@ -1,0 +1,17 @@
+框架：
+	spring 依赖注入
+	springmvc 实现mvc结构，注解方便，传递数据也方便
+	mybatis 轻量的orm框架，可以完全自定义sql，自带生成工具MybatisGenerator
+
+工具：	
+	maven 打包与jar包管理
+	
+数据库：
+	mysql
+	
+数据库连接池：
+	hikari (只支持jdk8）
+	
+运行环境：
+	jdk8 新特性
+	tomcat8 支持nio
