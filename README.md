@@ -9,5 +9,7 @@
   ![首页](https://github.com/goodsummer/ssm_demo_coffee/blob/master/screenshot/welcome.png)
 ### 图片页：
   ![图片页](https://github.com/goodsummer/ssm_demo_coffee/blob/master/screenshot/images.gif)
+### 图片查看：
+  ![图片查看](https://github.com/goodsummer/ssm_demo_coffee/blob/master/screenshot/detail.png)
 ### 小老虎：
   ![小老虎](https://github.com/goodsummer/ssm_demo_coffee/blob/master/screenshot/tiger.gif)
